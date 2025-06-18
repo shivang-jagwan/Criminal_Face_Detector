@@ -1,0 +1,4 @@
+# Python dependencies for the Criminal Detection System
+opencv-python
+deepface
+numpy
